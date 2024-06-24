@@ -1,0 +1,10 @@
+print("Programa de repetiçao digital 0 " )
+
+user = int(input("Digiteum numero inteiro"))
+while user != 0:
+print("Diferente de zero!!!")   
+user = int(input("Digite um numero inteiro"))
+print("Fim do programa!!")
+           
+
+
